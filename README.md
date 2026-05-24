@@ -3,7 +3,7 @@ Slutprojekt Tillämpad programmering
 ##Deltagare
 Filip - Stort ansvar för kartan, ljuddesign samt delaktig i många områden. Melker - Stort ansvar för fiender samt boss samt magi. Jacob - ansvarig för pausmeny samt kistor och dödsskärm. Vincent - ansvarig för lite magi samt spelarens hälsa. 
 ## Beskrivning
-Vi har gjort ett 2D topdown dungeoncrawler-rougelite spel. I spelet finns fem kartor som man i tur och ordning ska döda alla fiender på, sedan når man bossrummet där det finns en ordentlig boss. Spelet trappar stadigt upp i svårighet med varje nivå. Spelet är väldigt svårt för töntar.
+Vi har gjort ett 2D topdown dungeoncrawler-rougelite spel. I spelet finns fem kartor som man i tur och ordning ska döda alla fiender på, sedan når man bossrummet där det finns en ordentlig boss. Spelet trappar stadigt upp i svårighet med varje nivå. Spelet är väldigt svårt för töntar. 1 / vänsterklick = water magic. 2 = Fireball. 3 = Firewall. E = Interact. Tab = SkillTree
 ## Kom igång
 ### Förutsättningar
 Windows 11
